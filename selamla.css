@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+/* This code is related about the google fonts. */
+
+
+html{
+    box-sizing: border-box;
+}
+
+.container{
+margin : 0;
+/* We changed the margin value in here. Normally it was 10 pixel. */
+min-height: 100vh;
+background-color: burlywood;
+
+
+
+/* This is our hero pattern code. We copied to this code in a website named heropattern.com */
+color: #000;
+font-family: Lilita One, sans-serif;
+/* This is a code about font.Remember we copied the link about this font on top side of this project. */
+font-weight: 700;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 35px;
+}
+
+#textbox{
+    width: 350px;
+    height: 30px;
+}
+
+.yenisayfa{
+
+    background-color: #190f29;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Cg fill='%233b58d1' fill-opacity='0.45'%3E%3Cpath fill-rule='evenodd' d='M5 3.59L1.46.05.05 1.46 3.59 5 .05 8.54l1.41 1.41L5 6.41l3.54 3.54 1.41-1.41L6.41 5l3.54-3.54L8.54.05 5 3.59zM17 2h24v2H17V2zm0 4h24v2H17V6zM2 17h2v24H2V17zm4 0h2v24H6V17z'/%3E%3C/g%3E%3C/svg%3E")
+}
+
+.container2{
+margin : 0;
+/* We changed the margin value in here. Normally it was 10 pixel. */
+min-height: 100vh;
+font-family: Lilita One, sans-serif;
+/* This is a code about font.Remember we copied the link about this font on top side of this project. */
+font-weight: 700;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 35px;
+}
+
+.yeni{
+    color: blanchedalmond;
+}
+    
+
